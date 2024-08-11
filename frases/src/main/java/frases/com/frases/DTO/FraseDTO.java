@@ -1,0 +1,7 @@
+package frases.com.frases.DTO;
+
+public record FraseDTO( String titulo,
+                        String frase,
+                        String personagem,
+                        String  poster) {
+}
